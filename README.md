@@ -1,4 +1,4 @@
-# Flutter Dinosaur Game
+# Flutter Dinosaur Game by sosax coder
 
 A simple chrome dinosaur game build with flutter.
 
